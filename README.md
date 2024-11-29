@@ -5,7 +5,7 @@
 
 3.Gates
 
-4. Trolley (?)
+4. Trolley 
    
 5. Customs
    
